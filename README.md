@@ -42,6 +42,8 @@
 ✅ **Return** to the Cloudflare Worker editor and **paste** the code (`Ctrl+V` or `Command+V`).  
 ✅ **Click** `Save and Deploy` to finalize deployment.
 
+📌 **If you find this project helpful, please consider giving it a ⭐ on GitHub to support further development!**
+
 ---
 
 ## 3️⃣ Bind a Custom Domain
@@ -63,4 +65,6 @@
 ---
 
 📢 **For further assistance or troubleshooting, refer to the Cloudflare documentation or contact their support team.** 🚀
+
+📌 **Remember to ⭐ Star the project on GitHub if you find it useful!**
 
